@@ -46,14 +46,14 @@ main{
 }
 .content h1{
     color: hsl(0, 0%, 95%);
-    font-family: 'Lexend Deca', sans-serif;
+    font-family:'Big Shoulders Display', cursive;
     font-weight: 700;
     margin: 20px 0 20px 0;
 }
 .content p{
     margin-right: 25px;
     color: hsla(0, 0%, 100%, 0.75) ;
-    font-family:'Big Shoulders Display', cursive;
+    font-family: 'Lexend Deca', sans-serif;
 }
 .button{
     margin: 60px 0;
@@ -63,7 +63,7 @@ main{
     cursor: pointer;
     background-color: hsl(0, 0%, 95%);
     font-family: 'Lexend Deca', sans-serif;
-    font-weight: 700;
+    font-weight: 400;
 }
 .button1{
     color: hsl(31, 77%, 52%);
@@ -78,7 +78,7 @@ main{
     background-color: inherit;
     border: 2px solid white;
     color: white;
-    transition: 0.4s;
+    transition: all 0.4s ease;
 }
 
 @media only screen and (max-width:600px) {
